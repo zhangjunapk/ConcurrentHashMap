@@ -20,6 +20,10 @@ public class Content {
         m.insert("i","22");
 
         m.insert("o","64");
+        m.insert("wr","64");
+        m.insert("yui","64");
+        m.insert("ogj","64");
+        m.insert("olll","64");
 
         m.search("i");
         m.delete("i");
